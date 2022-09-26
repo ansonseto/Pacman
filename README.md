@@ -3,8 +3,8 @@ Re-create the classic game "Pacman" using Javascript
 
 Access the game here: https://ansonseto.github.io/Pacman/
 
-Control keys: 
-- Left key = J
-- Right Key = L
-- Top key = I
-- Bottom key = K
+Controls: 
+![image](https://user-images.githubusercontent.com/61979765/192285666-3f9652ba-e01b-4006-9c48-ffd245d289ce.png)
+
+
+
